@@ -1,0 +1,67 @@
+"What do you think of my cave?":
+A.  "It makes me feel lugubrious"
+B. "This cave is absolutely repugnant"
+C. "What a halcyon lair you have!"
+D.  "Your home is a complete hovel!"
+C
+"Dear you are looking pultritudinous today"
+A.  "Yes I'll get better soon"
+B.  "That was not nice of you"
+C.  "You are such a curmudgeon too"
+D.  "Thank you"
+D
+"Give me a reason why I shouldn't eat you"
+A.  "The taste of my flesh is titillating!"
+B.  "I epitomize all things piquant"
+C.  "I taste rather humdrum"
+D. "Only epicureans are fit to eat me"
+C
+"Describe the color of my eyes"
+A. "Your eyes are full of vendetta"
+B. "They are as lurid as your skin"
+C. "They are a seraphic ocher hue"
+D. "When I gaze into them, I feel consternation"
+C
+"Tell me of any good traits you have..."
+A. "I am the paragon of complacency"
+B. "I know how to act insouciantly at a funeral"
+C. "Although I am young, I act as if I am in my dotage"
+D. "I speak with an unctuous tongue"
+D
+"Fill in the blank. Because catching cave worms is such an ----- and dangerous process, I rarely eat them."
+A. arduous
+B. unpredictable
+C. imaginative
+D. amicable
+A
+"The other day, I engaged in --- debate with another cave monster as we were fighting over food."
+A. chimerical
+B. acrimonious
+C. philanthropist
+D. facetious
+B
+"I came to live in this cave alone because I was --- by my cave monster clan."
+A. ostracized
+B. venerated
+C. macerated
+D. lionized
+A
+"There is little food in this area, so I use my food supply with ---"
+A. generosity
+B. prudence
+C. indigence
+D. indulgence
+B
+"Someday, I hope to --- myself into human society and fit in."
+A. assimulate
+B. feign
+C. obfuscate
+D. beguile
+A
+"But for now, I prefer to stay in my cave and remain --- to society."
+A. aware
+B. oblivious
+C. vigilant
+D. persevering
+B
+
